@@ -1,4 +1,4 @@
-# Google-Meet
+# ConnectNow
 -Developed a web-based clone of the well-liked video conferencing service from Google, GMeet, where users may
 connect and communicate with one another.
 
